@@ -1,3 +1,5 @@
 # AutoML
 
-In this code, I used an AutoML library like H2O.ai to create predictive models and interpret them.Found a significant relation for each algorithm of your choosing in your data. Created multivariate models.
+The objective of this assignment was to leverage H2O.ai's AutoML library to build and interpret predictive models on a given dataset. The goal was to identify significant relationships in the data and create multivariate models using selected algorithms.
+
+
